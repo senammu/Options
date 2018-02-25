@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Add new user"
+        android:orderInCategory="100"
+        android:id="@+id/newuser">
+    </item>
+    <item android:title="Manage users"
+        android:id="@+id/manage">
+
+    </item>
+    <item android:title="Set rules"
+        android:id="@+id/setrules">
+
+    </item>
+    <item android:title="Set Work Timimg"
+        android:id="@+id/worktime">
+
+    </item>
+    <item android:title="Opt out"
+        android:id="@+id/optout">
+
+    </item>
+
+
+</menu>
